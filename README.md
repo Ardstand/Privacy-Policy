@@ -8,6 +8,7 @@ No usage of data outside of the aformentioned cases will happen and the data is 
 The bot may store the following information automatically when being invited to a new Discord Server:
 
 id with the Server's ID as value.
+User's ID as value.
 prefix with value p.
 No other information outside of the above mentioned one will be stored.
 
